@@ -1,2 +1,0 @@
-Esse é um teste	de leitura de arquivo.
-Queremos ler o conteúdo	de todas as linhas e retornar a quantidade de vezes que um caracter específico aparece no texto. 
